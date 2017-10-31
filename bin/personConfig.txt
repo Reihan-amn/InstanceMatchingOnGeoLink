@@ -1,0 +1,12 @@
+http://schema.geolink.org/1.0/base/main#Person
+http://schema.geolink.org/1.0/base/main#hasGivenName literal
+http://schema.geolink.org/1.0/base/main#hasFamilyName literal
+http://schema.geolink.org/1.0/base/main#hasFullName literal
+http://schema.geolink.org/1.0/base/main#hasEmailAddress literal
+http://www.w3.org/2000/01/rdf-schema#label literal
+http://www.w3.org/2000/01/rdf-schema#seeAlso literal
+http://schema.geolink.org/1.0/base/main#hasAffiliation http://schema.geolink.org/1.0/base/main#Organization
+******
+http://schema.geolink.org/1.0/base/main#Organization
+http://www.w3.org/2000/01/rdf-schema#label literal
+http://schema.geolink.org/1.0/base/main#hasTitle literal
